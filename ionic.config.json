@@ -1,0 +1,7 @@
+{
+  "name": "goggle-sign",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

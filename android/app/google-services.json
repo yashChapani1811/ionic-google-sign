@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "669984692773",
+    "project_id": "spatial-logic-415113",
+    "storage_bucket": "spatial-logic-415113.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669984692773:android:f5edd7eae872784d613dcc",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669984692773-cp19iqdrkeq3vb2f7k7mej18u6u6hae9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.ionic.starter",
+            "certificate_hash": "723f1d35a666b9b54da02278ac4f6c806c7a2254"
+          }
+        },
+        {
+          "client_id": "669984692773-091mqd0nf3gkto3bbu2v3getfhsk5id0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwSEq8iWi6t6s6zXK9frxG3zgn3tR1-Tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669984692773-091mqd0nf3gkto3bbu2v3getfhsk5id0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

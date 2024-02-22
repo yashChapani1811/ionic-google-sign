@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">goggle-sign</string>
+    <string name="title_activity_main">goggle-sign</string>
+    <string name="package_name">io.ionic.starter</string>
+    <string name="custom_url_scheme">io.ionic.starter</string>
+  <string name="server_client_id">669984692773-091mqd0nf3gkto3bbu2v3getfhsk5id0.apps.googleusercontent.com</string>
+
+</resources>
